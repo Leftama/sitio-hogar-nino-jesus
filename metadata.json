@@ -1,0 +1,6 @@
+{
+  "name": "Hogar Niño Jesús",
+  "description": "Una fundación benéfica y hogar de acogida de excelencia para lactantes y niños vulnerables. Centrados en darles un entorno de amor, estimulación oportuna y cuidado especializado en Santiago de Chile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
