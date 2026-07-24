@@ -36,10 +36,10 @@ export default function Header({ currentTab, onTabChange, onQuickAction }: Heade
               <span>TELÉFONO: +56 2 2 204 83 86</span>
             </div>
             <span className="hidden md:inline opacity-30">|</span>
-            <span className="hidden md:inline opacity-90 uppercase tracking-wide">AV. HOLANDA 3639, ÑUÑOA</span>
+            <span className="hidden md:inline opacity-90 uppercase tracking-wide">AV. OSSA 750, ÑUÑOA</span>
           </div>
           <div className="flex items-center gap-3">
-            <span className="text-[10px] uppercase tracking-widest opacity-60 font-semibold hidden lg:inline">Desde 1945</span>
+            <span className="text-[10px] uppercase tracking-widest opacity-60 font-semibold hidden lg:inline">Desde 1973</span>
             <span className="hidden lg:inline opacity-30">|</span>
             {/* Quick Action Buttons */}
             <button
@@ -82,7 +82,7 @@ export default function Header({ currentTab, onTabChange, onQuickAction }: Heade
             </div>
             <div className="flex items-baseline gap-2">
               <span className="font-serif italic text-2xl text-brand-olive font-bold">Hogar Niño Jesús</span>
-              <span className="text-[10px] uppercase tracking-widest text-brand-terracotta font-bold">Desde 1945</span>
+              <span className="text-[10px] uppercase tracking-widest text-brand-terracotta font-bold">Desde 1973</span>
             </div>
           </div>
 
