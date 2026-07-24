@@ -33,7 +33,7 @@ export default function Header({ currentTab, onTabChange, onQuickAction }: Heade
         <div className="max-w-7xl mx-auto flex flex-col sm:flex-row justify-between items-center gap-2">
           <div className="flex items-center gap-6">
             <div className="flex items-center gap-2 font-semibold tracking-wide">
-              <span>TELÉFONO: +56 2 2 204 83 86</span>
+              <span>TELÉFONO: +56 2 227 11 98</span>
             </div>
             <span className="hidden md:inline opacity-30">|</span>
             <span className="hidden md:inline opacity-90 uppercase tracking-wide">AV. OSSA 750, ÑUÑOA</span>

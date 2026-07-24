@@ -21,10 +21,10 @@ export default function Footer({ onTabChange, onQuickAction }: FooterProps) {
           <div>
             <div className="flex items-center gap-3 mb-4">
               <span className="font-serif italic text-2xl font-bold text-brand-ivory tracking-tight">Hogar Niño Jesús</span>
-              <span className="text-[9px] bg-brand-terracotta text-brand-ivory uppercase tracking-widest px-2 py-0.5 rounded-sm font-bold">1945</span>
+              <span className="text-[9px] bg-brand-terracotta text-brand-ivory uppercase tracking-widest px-2 py-0.5 rounded-sm font-bold">1973</span>
             </div>
             <p className="text-brand-cream/70 text-sm leading-relaxed mb-6">
-              Una obra social sin fines de lucro dedicada a brindar calidez familiar, amor, protección y salud de excelencia a lactantes y niños vulnerables.
+              Un hogar sin fines de lucro dedicado a abrazar con calidez familiar, amor y respeto a nuestras abuelitas, brindándoles protección, compañía y cuidados de salud de excelencia.
             </p>
             <div className="flex items-center gap-3">
               <span className="text-xs text-brand-cream/50">Síguenos:</span>
@@ -66,7 +66,7 @@ export default function Footer({ onTabChange, onQuickAction }: FooterProps) {
           <div>
             <h3 className="text-brand-terracotta font-bold text-xs uppercase tracking-widest mb-4">Colabora Hoy</h3>
             <p className="text-brand-cream/70 text-xs leading-relaxed mb-4">
-              Cada aporte directo nos ayuda a optimizar las terapias infantiles, asegurar alimentación y papillas nutritivas, y renovar las ludotecas de estimulación. Su solidaridad sostiene el futuro de los niños.
+              En el Hogar Niño Jesús, cada aporte directo nos ayuda a optimizar las terapias físicas y cognitivas, asegurar una alimentación balanceada y especializada, y renovar nuestros espacios de recreación. Su solidaridad sostiene el bienestar, la tranquilidad y la calidad de vida de nuestras abuelitas.
             </p>
             <div className="space-y-3">
               <button
@@ -93,7 +93,7 @@ export default function Footer({ onTabChange, onQuickAction }: FooterProps) {
                 <MapPin className="w-5 h-5 text-brand-terracotta shrink-0 mt-0.5" />
                 <span className="text-brand-cream/90">
                   <strong>Dirección:</strong><br />
-                  Avenida Holanda 3639,<br />
+                  Avenida Ossa 750,<br />
                   Ñuñoa, Santiago, Chile
                 </span>
               </div>
@@ -101,8 +101,8 @@ export default function Footer({ onTabChange, onQuickAction }: FooterProps) {
                 <Phone className="w-5 h-5 text-brand-terracotta shrink-0" />
                 <span className="text-brand-cream/90">
                   <strong>Teléfono:</strong><br />
-                  <a href="tel:+56222048386" className="hover:text-brand-terracotta transition-colors">
-                    +56 2 2 204 83 86
+                  <a href="tel:+5622271198" className="hover:text-brand-terracotta transition-colors">
+                    +56 2 227 11 98
                   </a>
                 </span>
               </div>
