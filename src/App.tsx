@@ -118,7 +118,7 @@ export default function App() {
                   </p>
                   
                   <p className="text-stone-605 text-sm sm:text-base leading-relaxed text-justify">
-                    Hoy, décadas después de nuestra fundación, operamos bajo una moderna dirección de asistencia pediátrica, psicomotriz y social, adscrita a los más rigurosos estándares de transparencia técnica y alianzas con la red de protección de la niñez de Chile (Mejor Niñez con herencia del ex-SENAME). Nos enorgullece abrir nuestras puertas en Avenida Holanda como un santuario de amor y crecimiento seguro.
+                    Desde su fundación el <strong className="font-serif italic text-brand-olive">Hogar Niño Jesús</strong> promueve un ambiente familiar, donde se respeta la historia y trayectoria de cada residente, ofreciendo acompañamiento físico, afectivo y espiritual. Atención personalizada e integral. Nuestro equipo multidisciplinario stá comprometido con el bienestar de las adultas mayores. Fomentando la autonomía en la medida de sus posibilidades.
                   </p>
 
                   <div className="grid grid-cols-2 gap-6 pt-4 border-t border-brand-border">
