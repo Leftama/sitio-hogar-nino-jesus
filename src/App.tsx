@@ -118,17 +118,17 @@ export default function App() {
                   </p>
                   
                   <p className="text-stone-605 text-sm sm:text-base leading-relaxed text-justify">
-                    Desde su fundación el <strong className="font-serif italic text-brand-olive">Hogar Niño Jesús</strong> promueve un ambiente familiar, donde se respeta la historia y trayectoria de cada residente, ofreciendo acompañamiento físico, afectivo y espiritual. Atención personalizada e integral. Nuestro equipo multidisciplinario stá comprometido con el bienestar de las adultas mayores. Fomentando la autonomía en la medida de sus posibilidades.
+                    Desde su fundación el <strong className="font-serif italic text-brand-olive">Hogar Niño Jesús</strong> promueve un ambiente familiar, donde se respeta la historia y trayectoria de cada residente, ofreciendo acompañamiento físico, afectivo y espiritual. Atención personalizada e integral. Nuestro equipo multidisciplinario está comprometido con el bienestar de las adultas mayores. Fomentando la autonomía en la medida de sus posibilidades.
                   </p>
 
                   <div className="grid grid-cols-2 gap-6 pt-4 border-t border-brand-border">
                     <div>
-                      <span className="font-serif text-3xl font-normal text-brand-terracotta italic">80+</span>
+                      <span className="font-serif text-3xl font-normal text-brand-terracotta italic">40</span>
                       <p className="text-[10px] text-stone-500 uppercase tracking-wider font-bold mt-1">Años de Sello Humanitario</p>
                     </div>
                     <div>
                       <span className="font-serif text-3xl font-normal text-brand-olive italic">Ñuñoa</span>
-                      <p className="text-[10px] text-stone-500 uppercase tracking-wider font-bold mt-1">Entorno Infantil de Desarrollo</p>
+                      <p className="text-[10px] text-stone-500 uppercase tracking-wider font-bold mt-1">Entorno de Acompañamiento y Cuidado Integral</p>
                     </div>
                   </div>
 
