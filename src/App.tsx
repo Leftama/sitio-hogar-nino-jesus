@@ -106,15 +106,15 @@ export default function App() {
                 <div className="lg:col-span-7 space-y-6">
                   <div className="inline-flex items-center gap-2 bg-brand-cream text-brand-terracotta px-4 py-1.5 rounded-sm text-xs font-bold border border-brand-border uppercase tracking-widest">
                     <BookOpen className="w-3.5 h-3.5 text-brand-terracotta" />
-                    Quiénes Somos desde 1945
+                    Quiénes Somos desde 1973
                   </div>
                   
                   <h3 className="font-serif text-3.5xl sm:text-4xl font-normal text-brand-olive tracking-tight leading-tight italic">
-                    Una Fundación Incombustible de Amor y Tradición
+                    Acompañando a las damas de tercera edad
                   </h3>
                   
                   <p className="text-stone-605 text-sm sm:text-base leading-relaxed text-justify">
-                    Fundado en 1945 con un profundo llamado a la protección de la niñez, el <strong className="font-serif italic text-brand-olive">Hogar Niño Jesús</strong> nació en Santiago de Chile con el firme propósito de cobijar, alimentar y brindar cuidado integral a lactantes y menores en situación de vulnerabilidad social.
+                    Fundado en 1973 con un profundo llamado a acoger a damas de la tercera edad, el <strong className="font-serif italic text-brand-olive">Hogar Niño Jesús</strong> nació en Santiago de Chile con el firme propósito de entregar un espacio para envejercer acompañada.
                   </p>
                   
                   <p className="text-stone-605 text-sm sm:text-base leading-relaxed text-justify">
@@ -148,8 +148,8 @@ export default function App() {
                   {/* Styled Image Deck */}
                   <div className="relative rounded-sm overflow-hidden shadow-sm border border-brand-border">
                     <img
-                      src="https://images.unsplash.com/photo-1519689680058-324335c77eba?auto=format&fit=crop&q=80&w=600&h=650"
-                      alt="Enfermera pediatra cuidando a lactante"
+                      src="https://photos.google.com/share/AF1QipPxo1NwwjDgw_42_PxwdHUX_XktyckafhLoYR8vpNtD9lcAxoTkXAT7jifHpxLq6A/photo/AF1QipOIxFKxd91MdB5jmYtgeKrPSzERDGC42LSVH4LH?key=d09vc21tTGpqTWFTTzd4TU81QkgzSldWdm03a2ln"
+                      alt="Artesania de nuestras abuelitas"
                       className="w-full h-[450px] object-cover"
                       referrerPolicy="no-referrer"
                     />
@@ -158,9 +158,9 @@ export default function App() {
 
                   {/* Absolute Badge over the image */}
                   <div className="absolute -bottom-6 -left-6 bg-brand-olive text-brand-ivory px-6 py-5 rounded-sm shadow-md border border-brand-border font-serif max-w-xs hidden sm:block">
-                    <span className="text-2xl font-normal block italic">1945</span>
+                    <span className="text-2xl font-normal block italic">1973</span>
                     <span className="text-[9px] uppercase font-sans font-bold tracking-widest text-brand-cream/80 mt-1 block leading-tight">
-                      FUNDADO BENÉFICAMENTE PARA EL CUIDADO Y PROTECCIÓN infantil
+                      Un espacio de acompañamiento y respeto
                     </span>
                   </div>
                 </div>
