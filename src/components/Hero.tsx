@@ -13,8 +13,8 @@ export default function Hero({ onTabChange, onQuickAction }: HeroProps) {
     {
       image: 'https://images.unsplash.com/photo-1543269865-cbf427effbad?auto=format&fit=crop&q=80&w=1600&h=800',
       title: 'Un verdadero hogar, una verdadera familia',
-      subtitle: 'Desde 1945 acogiendo a lactantes y niños en situación de desamparo con amor sincero, estimulación integral de excelencia y un entorno altamente seguro en Ñuñoa.',
-      badge: '80+ AÑOS DE HISTORIA Y AMOR',
+      subtitle: 'Residencia para adultas mayores, 40 años entregando una atención de excelencia con cariño, respeto y dedicación.',
+      badge: '40 AÑOS DE HISTORIA Y AMOR',
       ctaText: 'Postulaciones',
       ctaTab: 'postulacion'
     },
