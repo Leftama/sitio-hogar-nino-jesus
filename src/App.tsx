@@ -148,7 +148,7 @@ export default function App() {
                   {/* Styled Image Deck */}
                   <div className="relative rounded-sm overflow-hidden shadow-sm border border-brand-border">
                     <img
-                      src="https://photos.google.com/share/AF1QipPxo1NwwjDgw_42_PxwdHUX_XktyckafhLoYR8vpNtD9lcAxoTkXAT7jifHpxLq6A/photo/AF1QipOIxFKxd91MdB5jmYtgeKrPSzERDGC42LSVH4LH?key=d09vc21tTGpqTWFTTzd4TU81QkgzSldWdm03a2ln"
+                      src="https://images.unsplash.com/photo-1519689680058-324335c77eba?auto=format&fit=crop&q=80&w=600&h=650"
                       alt="Artesania de nuestras abuelitas"
                       className="w-full h-[450px] object-cover"
                       referrerPolicy="no-referrer"
